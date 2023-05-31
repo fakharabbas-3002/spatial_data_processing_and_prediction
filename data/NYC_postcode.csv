@@ -1,0 +1,201 @@
+,,Place,Code,Country,Admin1,Admin2
+,1,New York,10001,United States,New York,New York
+,2,New York,10002,United States,New York,New York
+,3,New York,10003,United States,New York,New York
+,4,New York,10004,United States,New York,New York
+,5,New York,10005,United States,New York,New York
+,6,New York,10007,United States,New York,New York
+,7,New York,10010,United States,New York,New York
+,8,New York,10011,United States,New York,New York
+,9,New York,10012,United States,New York,New York
+,10,New York,10013,United States,New York,New York
+,11,New York,10014,United States,New York,New York
+,12,New York,10016,United States,New York,New York
+,13,New York,10017,United States,New York,New York
+,14,New York,10018,United States,New York,New York
+,15,New York,10019,United States,New York,New York
+,16,New York,10020,United States,New York,New York
+,17,New York,10021,United States,New York,New York
+,18,New York,10022,United States,New York,New York
+,19,New York,10023,United States,New York,New York
+,20,New York,10024,United States,New York,New York
+,21,New York,10025,United States,New York,New York
+,22,New York,10028,United States,New York,New York
+,23,New York,10036,United States,New York,New York
+,24,New York,10038,United States,New York,New York
+,25,New York,10065,United States,New York,New York
+,26,New York,10128,United States,New York,New York
+,27,Ardsley,10502,United States,New York,Westchester
+,28,Bedford,10506,United States,New York,Westchester
+,29,Croton On Hudson,10520,United States,New York,Westchester
+,30,Irvington,10533,United States,New York,Westchester
+,31,Mount Vernon,10550,United States,New York,Westchester
+,32,Mount Vernon,10551,United States,New York,Westchester
+,33,Mount Vernon,10552,United States,New York,Westchester
+,34,Scarsdale,10583,United States,New York,Westchester
+,35,Yorktown Heights,10598,United States,New York,Westchester
+,36,White Plains,10601,United States,New York,Westchester
+,37,White Plains,10603,United States,New York,Westchester
+,38,White Plains,10605,United States,New York,Westchester
+,39,Yonkers,10701,United States,New York,Westchester
+,40,Yonkers,10704,United States,New York,Westchester
+,41,New Rochelle,10801,United States,New York,Westchester
+,42,Holtsville,00501,United States,New York,Suffolk
+,43,Holtsville,00544,United States,New York,Suffolk
+,44,Fishers Island,6390,United States,New York,Suffolk
+,45,New York,10006,United States,New York,New York
+,46,New York,10008,United States,New York,New York
+,47,New York,10009,United States,New York,New York
+,48,New York,10026,United States,New York,New York
+,49,New York,10027,United States,New York,New York
+,50,New York,10029,United States,New York,New York
+,51,New York,10030,United States,New York,New York
+,52,New York,10031,United States,New York,New York
+,53,New York,10032,United States,New York,New York
+,54,New York,10033,United States,New York,New York
+,55,New York,10034,United States,New York,New York
+,56,New York,10035,United States,New York,New York
+,57,New York,10037,United States,New York,New York
+,58,New York,10039,United States,New York,New York
+,59,New York,10040,United States,New York,New York
+,60,New York,10041,United States,New York,New York
+,61,New York,10043,United States,New York,New York
+,62,New York,10044,United States,New York,New York
+,63,New York,10045,United States,New York,New York
+,64,New York,10055,United States,New York,New York
+,65,New York,10069,United States,New York,New York
+,66,New York,10080,United States,New York,New York
+,67,New York,10081,United States,New York,New York
+,68,New York,10087,United States,New York,New York
+,69,New York,10101,United States,New York,New York
+,70,New York,10102,United States,New York,New York
+,71,New York,10103,United States,New York,New York
+,72,New York,10104,United States,New York,New York
+,73,New York,10105,United States,New York,New York
+,74,New York,10106,United States,New York,New York
+,75,New York,10107,United States,New York,New York
+,76,New York,10108,United States,New York,New York
+,77,New York,10109,United States,New York,New York
+,78,New York,10110,United States,New York,New York
+,79,New York,10111,United States,New York,New York
+,80,New York,10112,United States,New York,New York
+,81,New York,10113,United States,New York,New York
+,82,New York,10114,United States,New York,New York
+,83,New York,10115,United States,New York,New York
+,84,New York,10116,United States,New York,New York
+,85,New York,10117,United States,New York,New York
+,86,New York,10118,United States,New York,New York
+,87,New York,10119,United States,New York,New York
+,88,New York,10120,United States,New York,New York
+,89,New York,10121,United States,New York,New York
+,90,New York,10122,United States,New York,New York
+,91,New York,10123,United States,New York,New York
+,92,New York,10124,United States,New York,New York
+,93,New York,10125,United States,New York,New York
+,94,New York,10126,United States,New York,New York
+,95,New York,10129,United States,New York,New York
+,96,New York,10130,United States,New York,New York
+,97,New York,10131,United States,New York,New York
+,98,New York,10132,United States,New York,New York
+,99,New York,10133,United States,New York,New York
+,100,New York,10138,United States,New York,New York
+,101,New York,10150,United States,New York,New York
+,102,New York,10151,United States,New York,New York
+,103,New York,10152,United States,New York,New York
+,104,New York,10153,United States,New York,New York
+,105,New York,10154,United States,New York,New York
+,106,New York,10155,United States,New York,New York
+,107,New York,10156,United States,New York,New York
+,108,New York,10157,United States,New York,New York
+,109,New York,10158,United States,New York,New York
+,110,New York,10159,United States,New York,New York
+,111,New York,10160,United States,New York,New York
+,112,New York,10161,United States,New York,New York
+,113,New York,10162,United States,New York,New York
+,114,New York,10163,United States,New York,New York
+,115,New York,10164,United States,New York,New York
+,116,New York,10165,United States,New York,New York
+,117,New York,10166,United States,New York,New York
+,118,New York,10167,United States,New York,New York
+,119,New York,10168,United States,New York,New York
+,120,New York,10169,United States,New York,New York
+,121,New York,10170,United States,New York,New York
+,122,New York,10171,United States,New York,New York
+,123,New York,10172,United States,New York,New York
+,124,New York,10173,United States,New York,New York
+,125,New York,10174,United States,New York,New York
+,126,New York,10175,United States,New York,New York
+,127,New York,10176,United States,New York,New York
+,128,New York,10177,United States,New York,New York
+,129,New York,10178,United States,New York,New York
+,130,New York,10185,United States,New York,New York
+,131,New York,10199,United States,New York,New York
+,132,New York,10213,United States,New York,New York
+,133,New York,10242,United States,New York,New York
+,134,New York,10249,United States,New York,New York
+,135,New York,10256,United States,New York,New York
+,136,New York,10259,United States,New York,New York
+,137,New York,10260,United States,New York,New York
+,138,New York,10261,United States,New York,New York
+,139,New York,10265,United States,New York,New York
+,140,New York,10268,United States,New York,New York
+,141,New York,10269,United States,New York,New York
+,142,New York,10270,United States,New York,New York
+,143,New York,10271,United States,New York,New York
+,144,New York,10272,United States,New York,New York
+,145,New York,10273,United States,New York,New York
+,146,New York,10274,United States,New York,New York
+,147,New York,10275,United States,New York,New York
+,148,New York,10276,United States,New York,New York
+,149,New York,10277,United States,New York,New York
+,150,New York,10278,United States,New York,New York
+,151,New York,10279,United States,New York,New York
+,152,New York,10280,United States,New York,New York
+,153,New York,10281,United States,New York,New York
+,154,New York,10282,United States,New York,New York
+,155,New York,10285,United States,New York,New York
+,156,New York,10286,United States,New York,New York
+,157,Staten Island,10301,United States,New York,Richmond
+,158,Staten Island,10302,United States,New York,Richmond
+,159,Staten Island,10303,United States,New York,Richmond
+,160,Staten Island,10304,United States,New York,Richmond
+,161,Staten Island,10305,United States,New York,Richmond
+,162,Staten Island,10306,United States,New York,Richmond
+,163,Staten Island,10307,United States,New York,Richmond
+,164,Staten Island,10308,United States,New York,Richmond
+,165,Staten Island,10309,United States,New York,Richmond
+,166,Staten Island,10310,United States,New York,Richmond
+,167,Staten Island,10311,United States,New York,Richmond
+,168,Staten Island,10312,United States,New York,Richmond
+,169,Staten Island,10313,United States,New York,Richmond
+,170,Staten Island,10314,United States,New York,Richmond
+,171,Bronx,10451,United States,New York,Bronx
+,172,Bronx,104552,United States,New York,Bronx
+,173,Bronx,10453,United States,New York,Bronx
+,174,Bronx,10454,United States,New York,Bronx
+,175,Bronx,10455,United States,New York,Bronx
+,176,Bronx,10456,United States,New York,Bronx
+,177,Bronx,10457,United States,New York,Bronx
+,178,Bronx,10458,United States,New York,Bronx
+,179,Bronx,10459,United States,New York,Bronx
+,180,Bronx,10460,United States,New York,Bronx
+,181,Bronx,10461,United States,New York,Bronx
+,182,Bronx,10462,United States,New York,Bronx
+,183,Bronx,10463,United States,New York,Bronx
+,184,Bronx,10464,United States,New York,Bronx
+,185,Bronx,10465,United States,New York,Bronx
+,187,Bronx,10466,United States,New York,Bronx
+,187,Bronx,10467,United States,New York,Bronx
+,188,Bronx,10468,United States,New York,Bronx
+,189,Bronx,10469,United States,New York,Bronx
+,190,Bronx,10470,United States,New York,Bronx
+,191,Bronx,10471,United States,New York,Bronx
+,192,Bronx,10472,United States,New York,Bronx
+,193,Bronx,10473,United States,New York,Bronx
+,194,Bronx,10474,United States,New York,Bronx
+,195,Bronx,10475,United States,New York,Bronx
+,196,Amawalk,10501,United States,New York,Westchester
+,197,Ardsley On Hudson,10503,United States,New York,Westchester
+,198,Armonk,10504,United States,New York,Westchester
+,199,Baldwin Place,10505,United States,New York,Westchester
+,200,Bedford Hills,10507,United States,New York,Westchester
